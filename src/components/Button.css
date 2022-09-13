@@ -1,0 +1,14 @@
+.button{
+    background-color: rgb(255, 255, 255);
+    margin: 0.5%;
+    margin-left: 0.5%;
+    padding: 1.5rem;
+    width: 15rem;
+    max-width: 24%;
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+};
+.btnbg{
+    background-color: aqua;
+
+};
